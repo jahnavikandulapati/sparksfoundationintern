@@ -3,4 +3,3 @@
 ![Screenshot (14)](https://user-images.githubusercontent.com/104014611/212299586-355aa5d6-58a0-489e-9bd9-919506223875.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/104014611/212299628-78c8edc7-4a6d-4b6a-b518-040cf64db1c2.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/104014611/212299660-8c00b31f-a369-4a8c-b4d0-43657c13e727.png)
-![Screenshot (19)](https://user-images.githubusercontent.com/104014611/212299918-0c696d93-9e73-464c-bb0d-a1fabff46279.png)
